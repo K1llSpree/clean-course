@@ -1,5 +1,6 @@
 import './style.css';
 import './clean-code/07-tarea.ts'
+import './code-smells/01-high-coupling'
 const app = document.querySelector<HTMLDivElement>('#app')!
 
 app.innerHTML = `
