@@ -1,6 +1,6 @@
 import './style.css';
-import './clean-code/07-tarea.ts'
-import './code-smells/01-high-coupling'
+import './solid-principles/03-liskov-a'
+
 const app = document.querySelector<HTMLDivElement>('#app')!
 
 app.innerHTML = `
