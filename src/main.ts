@@ -1,5 +1,6 @@
 import './style.css';
-import './solid-principles/03-liskov-a'
+// import './tests/integerToBinary.js'
+import './solid-principles/05-dependency-a'
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
