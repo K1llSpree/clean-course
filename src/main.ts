@@ -1,6 +1,6 @@
 import './style.css';
 // import './tests/integerToBinary.js'
-import './solid-principles/05-dependency-a'
+import './tests/camelCaseTester.js'
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
